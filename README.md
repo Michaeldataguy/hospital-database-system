@@ -1,2 +1,2 @@
 # hospital-database-system
-this is how a hospital database should be
+This is a well structure database design and management of a hospital.
